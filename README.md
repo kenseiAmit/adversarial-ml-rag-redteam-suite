@@ -1,10 +1,17 @@
-# FinanceGuard Red Team: Adversarial CNN Evasion, Label-Flip Poisoning, RAG Exfiltration & Supply-Chain Audit
+<div align="center">
+  <img src="assets/hero-banner.svg" alt="FinanceGuard AI Red-Team Suite" width="100%" />
+  <br/><br/>
+  ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/Adversarial%20ML-PyTorch%20FGSM%20%2B%20Poisoning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+  ![RAG Security](https://img.shields.io/badge/RAG%20Red%20Team-FAISS%20Injection%20%26%20Exfiltration-DC2626?style=flat-square)
+  ![Trivy](https://img.shields.io/badge/Supply%20Chain-Trivy%20804%20CVEs%20Audited-2563EB?style=flat-square)
+  ![License](https://img.shields.io/badge/License-MIT-slate?style=flat-square)
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/Adversarial%20ML-PyTorch%20FGSM%20%2B%20Poisoning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![RAG Security](https://img.shields.io/badge/RAG%20Red%20Team-FAISS%20Injection%20%26%20Exfiltration-DC2626?style=flat-square)
-![Trivy](https://img.shields.io/badge/Supply%20Chain-Trivy%20804%20CVEs%20Audited-2563EB?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-slate?style=flat-square)
+  <br/>
+  <img src="assets/live-demo.svg" alt="Live Execution Trace" width="96%" />
+</div>
+
+---
 
 End-to-end offensive AI Red Team assessment targeting **FinanceGuard**, an enterprise expense management platform combining a PyTorch receipt classifier (`ReceiptCNN`) and a FastAPI + FAISS + OpenAI corporate policy RAG chatbot.
 
