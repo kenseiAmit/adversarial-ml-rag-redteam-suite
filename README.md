@@ -13,6 +13,8 @@
 
 ---
 
+![Offensive Adversarial ML & RAG Red-Team Assessment Blueprint](docs/images/architecture_blueprint.png)
+
 End-to-end offensive AI Red Team assessment targeting **FinanceGuard**, an enterprise expense management platform combining a PyTorch receipt classifier (`ReceiptCNN`) and a FastAPI + FAISS + OpenAI corporate policy RAG chatbot.
 
 ![Red Team Empirical Telemetry](attacks/results/redteam_empirical_telemetry.png)
